@@ -32,7 +32,7 @@ I'm a junior software engineer and cybersecurity-aware developer passionate abou
 ## 📬 Let’s Connect
 
 - 📧 Email: cyamos2@yahoo.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/your-link)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/christopher-amos-05a873158/) 
 - 💼 Just ask for Resume
 
 Thanks for visiting — I’m excited to connect and contribute!
