@@ -1,38 +1,47 @@
-# 👋 Hi, I'm Christopher Amos
+Hi, I’m Christopher Amos 👋
 
-I'm a junior software engineer and cybersecurity-aware developer passionate about building secure, user-focused web applications.
+I’m a Software Engineer with a growing focus on Machine Learning and Data Science, blending full-stack development skills with analytical and predictive modeling capabilities. My background includes building production-grade applications, creating data-driven solutions, and optimizing workflows through automation.
 
-🔧 I build full-stack apps using **JavaScript**, **Python**, **HTML/CSS**, and tools like **React**, **Node.js**, and **Git**.  
-🧠 I have training from **BloomTech**, **Google**, and **Cisco**, and I'm preparing for the **CompTIA Security+ (SY0-701)** certification.  
-💻 My projects range from CLI tools and log parsers to responsive websites and UI prototypes.  
-📈 I’m actively seeking junior dev roles where I can contribute, grow, and deliver clean, secure, and thoughtful code.
+💡 Mission: Use code, data, and AI to create efficient, impactful, and user-friendly solutions.
 
----
+⸻
 
-## 📌 Pinned Projects
+💻 Technical Skill Set
 
-- 🔐 [Password Strength Checker](https://github.com/Cyamos2/password-strength-checker) – Python CLI tool that audits password strength using entropy logic  
-- 🧾 [Login Activity Report](https://github.com/Cyamos2/login-activity-report) – Python script for detecting suspicious login patterns  
-- 🐹 [Guinea Pig Info Site](https://github.com/Cyamos2/guinea-pig-info-site) – A responsive multi-page HTML/CSS/JS site  
-- 🧪 [Scribble Stadium](https://github.com/Cyamos2/scribble-stadium) – UI/UX apprenticeship project contribution  
+Programming & Development: Python, JavaScript, HTML/CSS, SQL, UI/UX Design, Agile Collaboration
+Machine Learning & Data Science: scikit-learn, pandas, NumPy, data preprocessing, feature engineering, regression/classification models, exploratory data analysis (EDA)
+Data Visualization & BI: Matplotlib, Seaborn, Tableau, Power BI
+Databases: MySQL, PostgreSQL, SQLite
+Tools & Platforms: GitHub, AWS (Athena, Lambda, Glue), Excel (Advanced), Jira
+Additional Skills: API integration, QA testing, cross-browser UI validation, test automation
 
----
+⸻
 
-## 🚀 Skills & Tools
+🚀 Current Focus
+	•	Building end-to-end ML workflows from data collection → model training → deployment
+	•	Leveraging SQL + Python for performance tuning and data analytics
+	•	Enhancing UI/UX for better human–AI interaction in applications
 
-**Languages:** JavaScript, Python, HTML, CSS  
-**Frontend:** React (basic), DOM manipulation, responsive design  
-**Backend:** Node.js, CLI scripting, REST APIs  
-**Tools:** Git, GitHub, VSCode, Postman, CodePen  
-**Certifications:** Google Cybersecurity Cert, Cisco Cybersecurity Pathway, Security+ (in progress)  
-**Security Concepts:** PII handling, input validation, secure authentication basics
+⸻
 
----
+🛠 Featured Projects
+	•	Titanic Survival Prediction (ML) – Used Python, pandas, scikit-learn, and logistic regression to build a predictive model for Titanic passenger survival. Included feature engineering, missing value handling, and model evaluation.
+	•	DevPrep: Interview Prep Tracker – Full-stack app (Flask + JS) that tracks coding interview practice and visualizes progress
+	•	System Log Analyzer – Python CLI tool that validates logs, detects anomalies, and generates QA reports
+	•	Guinea Pig Info Site – Rebuilt from scratch in HTML, CSS, and JavaScript with planned animations, adoption database, and “Guinea Pig of the Wheek” feature
+	•	Data Cleaning & Visualization Scripts – Python-based ETL scripts automating data preprocessing and generating interactive dashboards
 
-## 📬 Let’s Connect
+⸻
 
-- 📧 Email: cyamos2@yahoo.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/christopher-amos-05a873158/) 
-- 💼 Just ask for Resume
+📊 Data & ML Interests
+	•	Predictive modeling for business intelligence
+	•	Process automation using AI/ML
+	•	Supply chain optimization with data analytics
+	•	Natural language processing (NLP) for support automation
 
-Thanks for visiting — I’m excited to connect and contribute!
+⸻
+
+📫 Let’s Connect
+	•	LinkedIn: www.linkedin.com/in/christopher-amos-05a873158
+	•	GitHub: github.com/cyamos2
+	•	Portfolio: (coming soon)
